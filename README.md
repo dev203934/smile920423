@@ -16,11 +16,6 @@ I help businesses supercharge their Growth using the power of AI and Automation,
 
 ## 
 
-This project is a powerful open source network disk program that can not only efficiently manage various files, but also excel in image and media file management...
-<p align="center">
-	<img src="https://raw.githubusercontent.com/angeluriot/Generative_adversarial_network/master/resources/misc/thumbnail.png" width="500"></a>
-</p>
-
 <br>
 
 
